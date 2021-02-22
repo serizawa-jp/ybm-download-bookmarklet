@@ -1,0 +1,24 @@
+{
+  "name": "ybm-download-bookmarklet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "rollup --watch --config",
+    "build": "rollup --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serizawa-jp/ybm-download-bookmarklet.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serizawa-jp/ybm-download-bookmarklet/issues"
+  },
+  "homepage": "https://github.com/serizawa-jp/ybm-download-bookmarklet#readme",
+  "devDependencies": {
+    "rollup": "^2.39.0"
+  }
+}
